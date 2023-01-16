@@ -4,3 +4,9 @@ header {
     background-image: url("./img/pattern.png");
     padding-top: 30px;
 }
+.logo{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
