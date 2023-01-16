@@ -27,9 +27,11 @@ tbody{
 .white{
     color: white;
 }
-td, tr, th{
-    padding: 0px;
-}
+
+table {
+    border-spacing: 0px;
+  }
+
 .div-footer{
     height: 208px;
     width: 312px;
