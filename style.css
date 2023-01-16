@@ -4,9 +4,28 @@ header {
     background-image: url("./img/pattern.png");
     padding-top: 30px;
 }
+
 .logo{
-    margin-left: 30px;
-    margin-bottom: 30px;
-    background-repeat: no-repeat;
-    background-size: 50%;
+    height: 80px;
+    width: 370px;
+    margin-top: 80px;
+}
+
+#footer-text{
+    color: #808080;
+}
+
+thead {
+    background-color: #20a9e5;
+}
+tbody{
+    background-color: #b1e5f2;
+}
+.white{
+    color: white;
+}
+
+.div-footer{
+    height: 208px;
+    width: 312px;
 }
