@@ -48,6 +48,10 @@ table {
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+.images{
+    margin-top: 30px;
+}
 .div-footer2{
     height: 208px;
     width: 312px;
