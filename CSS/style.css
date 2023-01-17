@@ -32,6 +32,15 @@ table {
     border-spacing: 0px;
   }
 
+.firstcolumn{
+    width: 25%;
+  }
+.secondcolumn{
+    width: 25%;
+  }
+.thirdcolumn{
+    width: 50%;
+  }
 .div-footer{
     height: 208px;
     width: 312px;
