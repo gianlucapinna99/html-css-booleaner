@@ -1,7 +1,7 @@
 header {
     background-color: #4ea0ff;
     height: 160px;
-    background-image: url("./img/pattern.png");
+    background-image: url("../img/pattern.png");
     padding-top: 30px;
 }
 
@@ -44,14 +44,14 @@ table {
 .div-footer{
     height: 208px;
     width: 312px;
-    background-image: url("img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 }
 .div-footer2{
     height: 208px;
     width: 312px;
-    background-image: url("img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 }
