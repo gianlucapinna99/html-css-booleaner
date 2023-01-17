@@ -24,6 +24,10 @@ tbody{
 .twhite{
     background-color: white;
 }
+ul{
+    padding: 0px;
+    list-style-position: inside;
+}
 .white{
     color: white;
 }
@@ -32,12 +36,6 @@ table {
     border-spacing: 0px;
   }
 
-.firstcolumn{
-    width: 25%;
-  }
-.secondcolumn{
-    width: 25%;
-  }
 .thirdcolumn{
     width: 50%;
   }
@@ -67,4 +65,9 @@ table {
 main {
     max-width: 1200px;
     margin: 0 auto;
+}
+h3{
+    margin: 20px;
+    margin-top: 0px;
+    padding-top: 13px;
 }
